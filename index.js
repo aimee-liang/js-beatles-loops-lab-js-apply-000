@@ -10,9 +10,10 @@ function theBeatlesPlay(array1, array2){
 function johnLennonFacts(array){
   let i = 0;
   while (i <= array.length){
+    newArray = array.split(,);
     i++;
   }
-  return([`${array}!!!,`])
+  return(`${newArray}!!!, `)
 } 
 
 function iLoveTheBeatles(num){
