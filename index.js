@@ -9,8 +9,9 @@ function theBeatlesPlay(array1, array2){
 
 function johnLennonFacts(array){
   let i = 0;
+  const comma = ","
   while (i <= array.length){
-    newArray = array.split(,);
+    let newArray = array.split(comma);
     i++;
   }
   return(`${newArray}!!!, `)
