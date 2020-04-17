@@ -12,7 +12,7 @@ function johnLennonFacts(array){
   while (i <= array.length){
     i++;
   }
-  return(`${newArray}!!!, `)
+  return(`${array}!!!, `)
 } 
 
 function iLoveTheBeatles(num){
