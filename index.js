@@ -12,8 +12,8 @@ function johnLennonFacts(array){
   while (i <= array.length){
     i++;
   }
-  return([`${array}!!!`])
-} 
+  return(["array[i]" + "!!!"])
+}  
 
 function iLoveTheBeatles(num){
   let result = [];
